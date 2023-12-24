@@ -8,9 +8,10 @@ Welcome to s!musicbot! This Privacy Policy outlines how we collect, use, and han
 
 s!musicbot logs the following information for analytical and performance improvement purposes:
 
-Server Name: The name of the Discord server where the bot is being used.
-Song Name: The name of the song currently being played.
-Query for the Song: The search query or identifier used to request the song.
+* Server Name: The name of the Discord server where the bot is being used.
+* Song Name: The name of the song currently being played.
+* Query for the Song: The search query or identifier used to request the song.
+
 It's important to note that s!musicbot does not collect or store any personal information about individual users, including usernames, messages, or any other identifiable data.
 
 # 2. Use of Information
