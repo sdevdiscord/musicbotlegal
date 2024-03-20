@@ -28,7 +28,8 @@ Your use or inability to use s!musicbot.
 Any unauthorized access to or use of our servers and/or any personal information stored therein.
 Any interruptions or cessation of transmission to or from s!musicbot.
 Any bugs, viruses, trojan horses, or the like that may be transmitted to or through our bot.
-6. Changes to Terms of Service
+
+## 6. Changes to Terms of Service
 
 We reserve the right to update or modify these terms of service at any time without prior notice. Your continued use of s!musicbot after any changes will constitute your acceptance of such changes.
 
