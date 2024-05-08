@@ -42,6 +42,6 @@ We reserve the right to update or modify this Privacy Policy at any time. Any ch
 
 ## Contact Information
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [Your Contact Email].
+If you have any questions or concerns about this Privacy Policy, please contact us at our Support Server.
 
 Thank you for using s!music! We hope you enjoy the music and have a great time on Discord.
